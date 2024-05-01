@@ -1,0 +1,159 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+    background-image: url(image/pic.jpg);
+    background-size: cover;
+    position: sticky;
+}
+
+
+.nav-bar a {
+
+    text-decoration: none;
+    color: white;
+}
+
+
+.spa {
+    margin-left: 70px;
+    position: relative;
+    top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+
+}
+
+.spa :hover{
+
+          color: black;
+} 
+
+
+
+.child {
+
+    position: relative;
+    bottom: 10px;
+    margin-left: 500px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5em;
+}
+
+.child a:hover {
+
+    color: #34995f;
+
+}
+
+.box a {
+
+    color: white;
+    border: 1px solid none;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: red;
+
+
+
+}
+
+
+.box {
+    padding: 20px;
+    margin-left: 50px;
+    position: relative;
+    top: 20px;
+}
+
+.new {
+
+    margin-left: 66px;
+    color: #fff0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    width: 50%;
+
+}
+
+.para {
+
+    margin-left: 66px;
+    position: relative;
+    bottom: 30px;
+    color: #948068;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+
+
+.main-div {
+
+    display: flex;
+
+}
+
+
+.first {
+
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    margin-left: 25px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+.second {
+
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    margin-left: 25px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+.third {
+
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 30px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+
+}
+
+
+.button {
+
+    background-color: #34995f;
+    color: #ffffff;
+    height: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+}
